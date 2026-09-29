@@ -1,0 +1,10 @@
+# Fonte da verdade das regras de cópias e banimentos. Preencha a partir da lista OFICIAL:
+#   https://world.digimoncard.com/rule/restriction_card/   (a lista muda; confira a data)
+# code,max_copies,banned
+#   max_copies: 4 padrão; 1 = restrita; 50 = sem limite (conforme o texto da carta)
+#   banned: true/false
+# Confirmado no site oficial (anúncio de 21/08/2026): BT15-003 banida.
+# EX1-066 aparece na mesma lista; confirme se é "restrita a 1" antes de usar.
+code,max_copies,banned
+BT15-003,4,true
+EX1-066,1,false
